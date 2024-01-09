@@ -16,3 +16,7 @@ comprobamos el servicio
 vamos a permitir http nginx con este comando
 
 ![cap5](permitirufw.png)
+
+luego vamos a comprobar la lista de perfiles con este comando
+
+![cap6](ufwlist.png)
