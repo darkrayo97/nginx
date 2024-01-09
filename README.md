@@ -1,6 +1,6 @@
 # nginx
 
-1.-[Introducción.](nginx/introduccion.md)
+1.-[Introducción](introduccion.md)
 
 2.-Comparativa con Apache.
 
