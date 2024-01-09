@@ -13,6 +13,6 @@ comprobamos el servicio
 
 ![cap4](estado.png)
 
-vamos a comprobar los perfiles de aplicacion con este comando
+vamos a permitir http nginx con este comando
 
 ![cap5](permitirufw.png)
