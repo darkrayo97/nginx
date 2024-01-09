@@ -12,3 +12,7 @@ segundo inicializamos nginx
 comprobamos el servicio
 
 ![cap4](estado.png)
+
+vamos a comprobar los perfiles de aplicacion con este comando
+
+![cap5](permitirufw.png)
