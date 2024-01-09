@@ -4,3 +4,6 @@ Mientras que Apache permite ejecutar PHP dentro del propio servidor web, en Ngin
 Nginx es muy eficiente al servir contenido estático (imágenes, PDF, CSS, Javascript, etc.), mientras que Apache es más lento y consume más recursos.
 Nginx puede funcionar como servidor HTTP y como proxy inverso, mientras que Apache solo puede funcionar como servidor web.
 Como has podido ver en el listado anterior, TODOS los puntos expuestos están relacionados con el rendimiento y con la forma de procesar la carga de trabajo (peticiones entrantes).
+
+
+![cap1](Captura desde 2024-01-09 09-19-48.png)
