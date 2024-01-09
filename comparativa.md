@@ -6,4 +6,4 @@ Nginx puede funcionar como servidor HTTP y como proxy inverso, mientras que Apac
 Como has podido ver en el listado anterior, TODOS los puntos expuestos están relacionados con el rendimiento y con la forma de procesar la carga de trabajo (peticiones entrantes).
 
 
-![cap1](nginx/Captura desde 2024-01-09 09-19-48.png)
+![cap1](nginx/cap1.png)
