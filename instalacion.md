@@ -1,2 +1,2 @@
 en primer lugar
-enpezamos insta
+empezamos instalando ![cap2](nginx/
