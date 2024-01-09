@@ -7,5 +7,8 @@ empezamos instalando
 segundo inicializamos nginx
 
 
-![cap2](start.png)
+![cap3](start.png)
 
+comprobamos el servicio
+
+![cap4](estado.png)
