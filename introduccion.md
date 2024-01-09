@@ -1,4 +1,4 @@
-##Nginx
+# Nginx
 
 es un servidor web de código abierto y software de proxy inverso. Fue creado por Igor Sysoev en 2004 y escrito originalmente para el motor de búsqueda ruso Rambler.
 
