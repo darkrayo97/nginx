@@ -1,2 +1,2 @@
 en primer lugar
-empezamos instalando ![cap2](nginx/
+empezamos instalando ![cap2](instalacion.png)
