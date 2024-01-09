@@ -20,3 +20,7 @@ vamos a permitir http nginx con este comando
 luego vamos a comprobar la lista de perfiles con este comando
 
 ![cap6](ufwlist.png)
+
+si como yo en debian no os aparece el comando ufw tendreis que instalarlo de esta manera
+
+![cap6](install.ufw.png)
