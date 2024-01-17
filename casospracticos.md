@@ -1,3 +1,3 @@
 index editado
 
-![cap23](nginx/image23.png)
+![cap23](/image23.png)
