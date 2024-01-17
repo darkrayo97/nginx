@@ -3,6 +3,9 @@ vesion instalada
 ![version](/version.png)
 
 
+ficheros de configuraacio
+
+![informacion](informacion.png)
 
 index editado
 
