@@ -6,6 +6,6 @@
 
 3.-[Instalación](instalacion.md)
 
-4.-[Casos prácticos](casospracticos.md)
+4.-[Casos prácticos](configuracion.md)
 
 5.- Referencias.
