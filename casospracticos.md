@@ -24,6 +24,8 @@ editamos el /etc/hosts
 ![image](https://github.com/darkrayo97/nginx/assets/114906901/7bcf90b7-9e67-4868-acfb-7985f9f01ab2)
 
 comprobamos en el navegador
+
+
 ![image](https://github.com/darkrayo97/nginx/assets/114906901/a4bdb312-70c7-4fb9-90ab-5a767ab01254)
 
 
