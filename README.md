@@ -8,4 +8,6 @@
 
 4.-[Configuracion](configuracion.md)
 
-5.- Referencias.
+5.-[balanceador](balanceador.md)
+
+6.- Referencias.
