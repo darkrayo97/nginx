@@ -1,7 +1,6 @@
-aqui os dejo la configuracion
-
-
-y los 3 servidores
+creamo los 3 servidores
+![priemra](1.jpeg)
+y lo configuramos de esta manera
 
 
 
